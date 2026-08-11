@@ -50,5 +50,4 @@ Because CharSketch is completely dependency-free, deployment is instantaneous.
 git clone [https://github.com/yourusername/charsketch.git](https://github.com/yourusername/charsketch.git)
 cd charsketch
 open index.html
-
 or just use live server extension or the deployed link
