@@ -29,6 +29,7 @@ Use live server extension
 
 
 Known some issues & problems
+
 If u upload a huge image (like 4k photo), browser might freeze for a second because i do pixel math on main thread.
 
 Copied ascii only looks right in monospace fonts. if u paste into word or standard text editor it will look stretched or broken until font is changed to courier or code font.
