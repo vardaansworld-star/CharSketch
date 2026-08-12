@@ -1,4 +1,4 @@
-#CharSketch
+CharSketch
 
 I made this small web tool to convet images into ascii text directly in the browser,no complex dependecies or backend, just basic html css and js.
 
