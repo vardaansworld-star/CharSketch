@@ -1,16 +1,12 @@
 #CharSketch
 
 I made this small web tool to convet images into ascii text directly in the browser,no complex dependecies or backend, just basic html css and js.
-
 to behonest i just wanted a quick way to generate ascii art without downloading heavy software or using random websites filled with ads.
 
 Features
 Drag and drop image file(less than 15mb)
-
 change character set (detailed, simple, binary, blocks)
-
 adjust resolution width slider
-
 copy output to clipboard
 
 
