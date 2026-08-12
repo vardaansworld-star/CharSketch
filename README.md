@@ -7,8 +7,11 @@ to behonest i just wanted a quick way to generate ascii art without downloading 
 Features
 
 Drag and drop image file(less than 15mb)
+
 change character set (detailed, simple, binary, blocks)
+
 adjust resolution width slider
+
 copy output to clipboard
 
 
